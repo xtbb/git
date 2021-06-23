@@ -1,4 +1,27 @@
-for i in data:
-	print(i)
+print('menghua')
 
-print('caomenghua')
++void fun1()
++{
++       printf("before hello world
++}
++
++{
++       printf("after hello world
++}
++
+print('menghua')
+
++void fun1()
++{
++       printf("before hello world
++}
++
+ void demo()
+ {
+ }
+
+
+
+
+
+
